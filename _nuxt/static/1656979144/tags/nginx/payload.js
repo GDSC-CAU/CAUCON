@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/tags/nginx", (function(a,b){return {data:[{tag:{slug:a,name:a,description:"nginx에 대한 글들 모음입니다.",img:"nginx.png",dir:"\u002Ftags",path:"\u002Ftags\u002Fnginx",extension:".yaml",createdAt:b,updatedAt:b},tagName:a,proArticles:[]}],fetch:{},mutations:void 0}}("nginx","2022-07-04T23:58:04.626Z")));
