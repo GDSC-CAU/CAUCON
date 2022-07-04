@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/tags/mysql", (function(a,b){return {data:[{tag:{slug:a,name:a,description:"MySql에 대한 글들 모음입니다.",img:"mysql.png",dir:"\u002Ftags",path:"\u002Ftags\u002Fmysql",extension:".yaml",createdAt:b,updatedAt:b},tagName:a,proArticles:[]}],fetch:{},mutations:void 0}}("mysql","2022-07-04T11:26:13.575Z")));
