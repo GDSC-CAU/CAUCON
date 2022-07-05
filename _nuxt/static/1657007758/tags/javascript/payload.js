@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/tags/javascript", (function(a,b){return {data:[{tag:{slug:a,name:a,description:"javascript에 대한 글들 모음입니다.",img:"javascript.png",dir:"\u002Ftags",path:"\u002Ftags\u002Fjavascript",extension:".yaml",createdAt:b,updatedAt:b},tagName:a,proArticles:[]}],fetch:{},mutations:void 0}}("javascript","2022-07-05T07:55:06.509Z")));
