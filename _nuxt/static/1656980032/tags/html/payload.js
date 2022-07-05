@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/tags/html", (function(a,b){return {data:[{tag:{slug:a,name:a,description:"html에 대한 글들 모음입니다.",img:"html.png",dir:"\u002Ftags",path:"\u002Ftags\u002Fhtml",extension:".yaml",createdAt:b,updatedAt:b},tagName:a,proArticles:[]}],fetch:{},mutations:void 0}}("html","2022-07-05T00:12:53.398Z")));
