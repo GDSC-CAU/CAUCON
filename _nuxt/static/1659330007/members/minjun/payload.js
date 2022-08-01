@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/members/minjun", (function(a,b){return {data:[{member:{slug:"minjun",name:a,description:"CAU 소프트웨어학부 21학번",role:"Member",img:"minjun.png",dir:"\u002Fmembers",path:"\u002Fmembers\u002Fminjun",extension:".yaml",createdAt:b,updatedAt:b},authorName:a,proArticles:[]}],fetch:{},mutations:void 0}}("MinJun Choi","2022-08-01T04:58:48.857Z")));
